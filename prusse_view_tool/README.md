@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+PrusseViewTool::Renderer.copyright 'Adam Prusse', 'All rights reserved'
+```
 
 ## Development
 
